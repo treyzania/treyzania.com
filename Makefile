@@ -3,4 +3,4 @@ push:
 	./ftp-push.sh
 
 clean:
-	find . -type d -name *~ -exec rm {} \;
+	find . -name *~ -exec rm {} \;
