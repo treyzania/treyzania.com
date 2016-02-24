@@ -3,7 +3,7 @@
 HOSTNAME="treyzania.com"
 USERNAME="treyzani"
 SOURCE_DIR="www"
-TARGET_PREFIX="./www/apcsp-portfolio"
+TARGET_PREFIX="./www"
 
 echo "Connecting to $USERNAME@$HOSTNAME."
 echo -n "Password: "
